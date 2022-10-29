@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Website backend, NodeJS, ExpressJS and Python**
 
-- 👨‍💻 All of my projects are available at [https://fowl1029.carrd.co/](https://fowl1029.carrd.co/)
+- 👨‍💻 All of my projects are available at [https://owl1029.carrd.co/](https://owl1029.carrd.co/)
 
 - 📝 I regularly write articles on [https://owl1029.blogspot.com/](https://owl1029.blogspot.com/)
 
