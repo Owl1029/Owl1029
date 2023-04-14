@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Website backend, NodeJS, ExpressJS and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Owl1029?tab=repositories](https://github.com/Owl1029?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Owl1029?](https://github.com/Owl1029?tab=repositories)
 
 - 📝 I regularly write articles on [https://dev.to/owl1029](https://dev.to/owl1029)
 
