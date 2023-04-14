@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Owl</h1>
-<h3 align="center">I'm a developer from India</h3>
+<h3 align="center">I'm a developer</h3>
 
 - 🔭 I’m currently working on [ZaraAI](https://github.com/Owl1029/ZaraAI)
 
 - 🌱 I’m currently learning **Website backend, NodeJS, ExpressJS and Python**
 
-- 👨‍💻 All of my projects are available at [https://owl1029.carrd.co/](https://owl1029.carrd.co/)
+- 👨‍💻 All of my projects are available at [https://github.com/Owl1029?tab=repositories](https://github.com/Owl1029?tab=repositories)
 
 - 📝 I regularly write articles on [https://dev.to/owl1029](https://dev.to/owl1029)
 
