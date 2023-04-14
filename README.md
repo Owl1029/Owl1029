@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Owl</h1>
 <h3 align="center">I'm a developer from India</h3>
 
-- 🔭 I’m currently working on [SmartBot](https://smartbot.co.in)
+- 🔭 I’m currently working on [ZaraAI](https://github.com/Owl1029/ZaraAI)
 
 - 🌱 I’m currently learning **Website backend, NodeJS, ExpressJS and Python**
 
 - 👨‍💻 All of my projects are available at [https://owl1029.carrd.co/](https://owl1029.carrd.co/)
 
-- 📝 I regularly write articles on [https://owl1029.blogspot.com/](https://owl1029.blogspot.com/)
+- 📝 I regularly write articles on [https://dev.to/owl1029](https://dev.to/owl1029)
 
 - 💬 Ask me about **ExpressJS, Discord-Bot related questions and Website related questions**
 
