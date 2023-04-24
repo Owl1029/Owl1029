@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owl</h1>
 <h3 align="center">I'm a developer</h3>
 
-- 🔭 I’m currently working on [ZaraAI](https://github.com/Owl1029/ZaraAI)
+- 🔭 I’m currently working on [DiscordClientJS](https://github.com/Owl1029/discord-client-js)
 
 - 🌱 I’m currently learning **Website backend, NodeJS, ExpressJS and Python**
 
