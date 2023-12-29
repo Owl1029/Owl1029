@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Owl</h1>
 <h3 align="center">I'm a developer</h3>
 
-- 🔭 I’m currently working on [DiscordClientJS](https://github.com/Owl1029/discord-client-js)
+- 🔭 I’m currently working on Nothing
 
 - 🌱 I’m currently learning **Website backend, NodeJS, ExpressJS and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Owl1029](https://github.com/Owl1029?tab=repositories)
-
-- 📝 I regularly write articles on [https://dev.to/owl1029](https://dev.to/owl1029)
 
 - 💬 Ask me about **ExpressJS, Discord-Bot related questions and Website related questions**
 
