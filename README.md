@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Owl</h1>
-<h3 align="center">I'm a developer</h3>
+<h3 align="center">I'm a hobbyist developer</h3>
 
-- 🔭 I’m currently working on Nothing
+- 🔭 I’m currently working on a lot private projects but mainly [GPM](https://github.com/Owl1029/go-package-manager)
 
-- 🌱 I’m currently learning **Website backend, NodeJS, ExpressJS and Python**
+- 🌱 I’m currently learning **GoLang, NodeJS, Express and back-end in general**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Owl1029](https://github.com/Owl1029?tab=repositories)
+  
+- 📚 I have a blog at [https://blog.owl1029.me/](https://blog.owl1029.me/)! 
 
-- 💬 Ask me about **ExpressJS, Discord-Bot related questions and Website related questions**
-
-- 📫 How to reach me **fowl1029@gmail.com**
-
-- ⚡ Fun fact **I'm very dumb.**
+- 📫 How to reach me **fowl1029@proton.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
